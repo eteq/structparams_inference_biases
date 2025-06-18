@@ -3,3 +3,4 @@ poetry.lock
 # pixi environments
 .pixi
 *.egg-info
+real_glx_data
