@@ -30,3 +30,9 @@ optax = ">=0.2.4,<0.3"
 treescope = ">=0.1.9,<0.2"
 equinox = ">=0.12.2,<0.13"
 nautilus-sampler = ">=1.0.5,<2"
+pyregion = ">=2.3.0,<3"
+
+[pypi-dependencies]
+ezpadova = { git = "https://github.com/mfouesneau/ezpadova.git" }
+astroquery = ">=0.4.10, <0.5"
+
